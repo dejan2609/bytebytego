@@ -1,3 +1,6 @@
+### System design link (by Gergely Orosz): https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review 
+
+
 ### System Design Interview - An Insider's Guide book (Volume 1)
 
 - Link to the book: https://amzn.to/3ggPKAG
